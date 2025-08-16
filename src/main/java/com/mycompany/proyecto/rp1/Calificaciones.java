@@ -36,6 +36,9 @@ public class Calificaciones {
          System.out.println("suma de las notas que están entre 0 y 40 puntos: "+t1);
          System.out.println("suma de las notas que están entre 41 y 70 puntos: "+t2);
          System.out.println("suma de las notas que están entre 71 y 100 puntos: "+t3);
-         
+         System.out.println("cantidad total de notas ingresadas: "+tc);
+         System.out.println("suma total de tadas las notas ingresadas: "+tn);
+         System.out.println("Promedio de las notas ingresadas entre 71 y 100 puntos: "+p3);
+         System.out.println("Promedio de todas las notas ingresadas: "+pt);  
      }
 }
