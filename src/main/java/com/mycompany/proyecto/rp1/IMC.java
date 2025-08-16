@@ -32,5 +32,6 @@ public class IMC {
         }else if(imc>40){
             System.out.println("obesidad morbida (obesidad grado IV)");
         }
+        System.out.println("IMC: "+imc);
     }
 }
