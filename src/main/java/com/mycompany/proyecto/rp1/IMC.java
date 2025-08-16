@@ -1,4 +1,3 @@
-
 package com.mycompany.proyecto.rp1;
 import java.util.Scanner;
 
